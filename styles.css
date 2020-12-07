@@ -11,5 +11,8 @@ background-color: hsl(211, 100%, 50% );
 border-color: hsl(211, 100%, 50% );
 font-family: 'Roboto', sans-serif;
 }
-
+.button:hover{
+    background-color: hsl(211, 100%, 40% );
+border-color: hsl(211, 100%, 40% );
+}
 
